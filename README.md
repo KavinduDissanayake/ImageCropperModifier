@@ -52,5 +52,14 @@ struct ContentView: View {
 }
 ```
 
+#### Demo image
+<img align="center" src="https://github.com/KavinduDissanayake/ImageCropperModifier/blob/master/ImageCropperModifierExample/SS/ss.png"> 
+
+## License
+
+Kavindu Dissanayake
+
+
+
 
  
